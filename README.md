@@ -11,6 +11,4 @@ Dette er den offisielle nettsiden for Blockster, utviklet helt fra bunnen av med
 - Rent, moderne og mobilvennlig design
 - Søkemotoroptimalisering med sitemap.xml og robots.txt
 
-📸 Skjermbilde
-
 
